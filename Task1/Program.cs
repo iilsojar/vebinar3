@@ -19,7 +19,7 @@ else
 {
     max = a;
 }
-Console.WriteLine(max);
+Console.WriteLine($"наибольшее число {max}");
 
 
 
